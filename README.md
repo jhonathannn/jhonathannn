@@ -15,4 +15,4 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
 
-Sou estudante de ciências da computação, tenho 20 anos. Estou focando mais em desenvolvimento web e projetos.
+formado em ciencias da computação, tenho 23 anos e sou da area de desenvolvimento, mais escificamente desenvolvedor front end
